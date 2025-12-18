@@ -1,0 +1,11 @@
+{
+    "launcher_version": "1.2",
+    "allowed_hwids": [
+        "ваш_hwid_здесь",
+        "hwid_другого_пользователя"
+    ],
+    "update_url": "https://your-server.com/uragan/update.zip",
+    "credentials": {
+        "Egzeg": "409242420110719maks000022"
+    }
+}

@@ -1,7 +1,7 @@
 {
     "launcher_version": "1.2",
     "allowed_hwids": [
-        "ВАШ_HWID_ЗДЕСЬ"
+        "bfaca828d44fda013e92c919b903ad0af5a8128d6692b824cebce1c32c9cc09a"
     ],
     "update_url": "",
     "credentials": {
@@ -10,3 +10,4 @@
         "admin": "admin123"
     }
 }
+

@@ -1,15 +1,11 @@
 {
     "launcher_version": "1.3",
     "allowed_hwids": [
-        "bfaca828d44fda013e92c919b903ad0af5a8128d6692b824cebce1c32c9cc09a"
+        ""
     ],
     "update_url": "",
     "credentials": {
     }
 }
-
-
-
-
 
 

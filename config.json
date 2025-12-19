@@ -1,11 +1,12 @@
 {
     "launcher_version": "1.2",
     "allowed_hwids": [
-        "f7818df87fd1c49fe8b0b2701280601c8f892e67b373d4785da9a4156b3d328c"
+        ""
     ],
     "update_url": "",
     "credentials": {
         "Egzeg": "409242420110719maks000022"
     }
 }
+
 
